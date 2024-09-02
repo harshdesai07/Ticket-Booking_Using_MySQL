@@ -1,6 +1,6 @@
 # Travel-Booking_Using_MySQL
 
-#Database Components
+# Database Components
 1. Customer Management: Comprehensive records of customers, including personal details and preferred modes of travel.
 2. Employee Management: Database for storing employee information, such as roles, departments, and salaries.
 3. Destination Information: Repository of destination details, including names, distances, and countries, essential for planning travel routes and itineraries.
@@ -8,8 +8,8 @@
 5. Payment Processing: Seamless payment processing capabilities, including different payment methods and transaction records.
 6. Booking Management: Facilitates the booking process, managing reservations, tracking booking statuses, and generating booking confirmations.
 
-#Implementation
+# Implementation
 Our system is built on a robust relational database, featuring tables for customer details, employee information, destinations, transportation options, payment records, and bookings. SQL queries are used to efficiently retrieve, manipulate, and analyze data, providing a seamless booking experience for users.
 
-#Conclusion
+# Conclusion
 With the Travel Booking Management System, users can effortlessly plan adventures, book transportation, and manage bookings from a single platform. By leveraging the power of data and technology, we're revolutionizing the way travelers navigate the world, making their journeys smoother, more enjoyable, and truly unforgettable.
